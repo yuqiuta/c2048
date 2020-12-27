@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609054618 source:c:\users\administrator\documents\github\c2048\c2048  1.0\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
