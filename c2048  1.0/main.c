@@ -1,16 +1,7 @@
+#include "board.h"
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
-void StartGame(){}
-void InsertANumber(){}
-void Output()
-{
-    printf("");
-}
-int MoveLeft(){printf("2");return 1;}
-int MoveRight(){printf("3");return 1;}
-int MoveUp(){printf("4");return 1;}
-int MoveDown(){printf("1");return 1;}
 int main()
 {
     int key1,key2,step=0,moved;

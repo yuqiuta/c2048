@@ -1,5 +1,19 @@
 # depslib dependency file v1.0
-1609054618 source:c:\users\administrator\documents\github\c2048\c2048  1.0\main.cpp
+1609058711 source:c:\users\administrator\documents\github\c2048\c2048  1.0\main.cpp
+	"board.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1609059126 c:\users\administrator\documents\github\c2048\c2048  1.0\board.h
+	<stdio.h>
+
+1609060739 source:c:\users\administrator\documents\github\c2048\c2048  1.0\board.c
+	"board.h"
+	<stdio.h>
+
+1609059368 source:c:\users\administrator\documents\github\c2048\c2048  1.0\main.c
+	"board.h"
 	<stdio.h>
 	<stdlib.h>
 	<conio.h>
